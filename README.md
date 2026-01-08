@@ -16,6 +16,21 @@ Use RTL-SDR + rtl_433 to decode wireless devices transmitting on 433.92 MHz in m
 - rtl_433 (built from source)
 - OS: Ubuntu/Linux
 
+## Software Installation
+
+Installed the latest rtl_433 from source (master branch, January 8, 2026):
+
+```bash
+sudo apt install libtool libusb-1.0-0-dev librtlsdr-dev rtl-sdr cmake git build-essential pkg-config
+git clone https://github.com/merbanan/rtl_433.git
+cd rtl_433
+mkdir build && cd build
+cmake ..
+make
+sudo make install
+sudo ldconfig
+```
+
 ## Installation Steps (Jan 8, 2026)
 1. Installed dependencies:
    sudo apt install libtool libusb-1.0-0-dev librtlsdr-dev rtl-sdr cmake git build-essential pkg-config
