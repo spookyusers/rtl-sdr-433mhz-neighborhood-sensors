@@ -1,0 +1,323 @@
+rtl_433 version 25.12-8-g8d92cdd6 branch master at 202601061318 inputs file rtl_tcp RTL-SDR with TLS
+Found Rafael Micro R828D tuner
+RTL-SDR Blog V4 Detected
+[SDR] Using device 0: RTLSDRBlog, Blog V4, SN: 00000001, "Generic RTL2832U OEM"
+Exact sample rate is: 250000.000414 Hz
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:31:17
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:31:27
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.4 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:31:34
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:32:13
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:32:17
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.4 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:32:20
+model     : Springfield-Soil                       SID       : 0
+Channel   : 1            Battery   : 1             Transmit  : AUTO
+Temperature: 51.2 C      Moisture  : 20 %          Button    : 0
+Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+time      : 2026-01-08 14:32:27
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:32:55
+model     : Acurite-609TXC                         id        : 128
+Battery   : 1            Temperature: 6.4 C        Humidity  : 0 %
+status    : 0            Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:33:07
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.4 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:33:09
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:33:20
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:33:57
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.4 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:34:05
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:34:13
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:34:47
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:35:01
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:35:06
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:35:37
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:35:57
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:35:59
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:36:27
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.4 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:36:42
+Model     : Oregon-SL109H Id        : 4
+Channel   : 3            Celsius   : 0.0 C         Humidity  : 4 %           Status    : 8
+Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:36:52
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:36:53
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:37:17
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:37:45
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.2 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:37:49
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:38:07
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:38:38
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:38:45
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:38:57
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:39:31
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:39:41
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.1 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:39:47
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:40:24
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:41:17
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:41:27
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:41:33
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:41:51
+model     : GT-WT02      ID Code   : 0
+Channel   : 1            Battery   : 1             Temperature: 0.0 C
+Humidity  : 32 %         Button    : 0             Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:41:57
+model     : Springfield-Soil                       SID       : 0
+Channel   : 3            Battery   : 1             Transmit  : AUTO
+Temperature: 0.2 C       Moisture  : 0 %           Button    : 0             Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:42:10
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:42:17
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:42:29
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:43:03
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:43:07
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:43:25
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:44:21
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:44:47
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:44:49
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:45:17
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:45:34
+model     : DSC-Security id        : 2260763
+closed    : 1            event     : 0             tamper    : 0             Battery   : 0
+xactivity : 0            xtamper1  : 0             xtamper2  : 0             exception : 0
+esn       : 227f1b       status    : 203           status_hex: cb            Integrity : CRC
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:45:35
+model     : DSC-Security id        : 2260763
+closed    : 1            event     : 0             tamper    : 0             Battery   : 0
+xactivity : 0            xtamper1  : 0             xtamper2  : 0             exception : 0
+esn       : 227f1b       status    : 203           status_hex: cb            Integrity : CRC
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:45:37
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:45:42
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:46:13
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:46:27
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:46:35
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:47:09
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:47:17
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:47:28
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:48:05
+model     : Vauno-EN8822C ID        : 33
+Channel   : 3            Battery   : 1             Temperature: 22.2 C
+Humidity  : 65 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:48:07
+model     : Vauno-EN8822C ID        : 235
+Channel   : 1            Battery   : 1             Temperature: 24.5 C
+Humidity  : 69 %         Integrity : CHECKSUM
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+time      : 2026-01-08 14:48:21
+model     : Vauno-EN8822C ID        : 228
+Channel   : 2            Battery   : 1             Temperature: 24.3 C
+Humidity  : 74 %         Integrity : CHECKSUM
